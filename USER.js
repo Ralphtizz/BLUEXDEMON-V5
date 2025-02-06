@@ -1,10 +1,10 @@
-const pairNumber = "234xxxxxxxxxxx";
+const pairNumber = "2348103348067";
 
-const accNumber = ""
+const accNumber = "8103348067"
 
-const name = ""
+const name = "peter daniel"
 
-const bankName = ""
+const bankName = "palmpay"
 
 const any = "𓃵"
 
